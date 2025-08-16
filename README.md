@@ -33,7 +33,7 @@ It integrates Google Gemini, OpenAI-compatible models, and the Tavily Search API
 
 1. **Clone the repository**  
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/aimahusnain/Panaversity-First-Project.git
    cd <your-repo-folder>
    ```
 
